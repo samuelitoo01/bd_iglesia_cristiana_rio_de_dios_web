@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300&display=swap');
+*{
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.slogan{
+    text-align: center;
+    display: flex;
+    flex-direction: column; 
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: bold;
+    margin: 50px;
+}
+
+.container-mision-vision{
+    margin-top: 50px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+  
+}
+
+.tittle-mision{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.tittle-vision{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.mision b{
+    color: #999999;
+}
+
+.vision b{
+    color: #999999;
+}
+
+.tittle-formulario{
+    text-align: center;
+    font-weight: bold;
+}
+
+.tittle-frecuentes{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-weight: bold;
+}
+
+.misiones-nacionales{
+text-align: center;
+font-weight: bold;
+margin-top: 30px;
+margin-bottom: 50px;
+}
+
+.misiones-nacionales-container{
+    text-align: center;
+}
+
+.logo-whatsapp{
+    position: fixed;
+    height: 80px;
+    width: 80px;
+    right: 0;
+    bottom: 0;
+    margin: 20px;
+}
+

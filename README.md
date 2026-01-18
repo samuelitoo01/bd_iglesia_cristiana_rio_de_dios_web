@@ -25,4 +25,4 @@ If you are interested in contributing to this project, please submit a pull requ
 Please refer to the LICENSE file in this repository for licensing details.
 
 ---
-_This README was last updated on 2026-01-12._
+_This README was last updated on 2026-01-12.
